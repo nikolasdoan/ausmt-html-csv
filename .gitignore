@@ -1,0 +1,5 @@
+html-files/
+markdown-files/
+.DS_Store
+~.xlsx
+*.tmp
