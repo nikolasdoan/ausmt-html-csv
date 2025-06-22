@@ -1,7 +1,7 @@
 Vol,No,Year,Article,Author,Pages
-1,1,2011,EDITORIAL: First HOOT from International Journal of Automation and Smart Technology,Chih-Kung Lee,1-2
-1,1,,The Application Trend of Smart Sensing Technology in Home of Building: An Example of a Green and Smart Building for the Seniors Citizens Offered by Farglory Land Development,Meng-Hsien Hsieh,3-5
-1,1,,"Crises and Chances: Year 2015, the first year of the “Taiwan Aging Power Era”","Ya-ling Kao, Shavonne Lin",7-11
+1,1,2011,EDITORIAL: First HOOT from International Journal of Automation and Smart Technology,Chih-Kung Lee,45659
+1,1,,The Application Trend of Smart Sensing Technology in Home of Building: An Example of a Green and Smart Building for the Seniors Citizens Offered by Farglory Land Development,Meng-Hsien Hsieh,45721
+1,1,,"Crises and Chances: Year 2015, the first year of the “Taiwan Aging Power Era”","Ya-ling Kao, Shavonne Lin",45849
 1,1,,Implant intelligent gene to automation: An interview with ITRI MSL Deputy General Director,Chih-Ting Lin,13-17
 1,1,,Spotlight Editorial: Five Golden Years for Intelligent Automation Technology,Min-Hsiung Hung,19-20
 1,1,,Applications of Intelligent Evolutionary Algorithms in Optimal Automation System Design,"Tung-Kuan Liu, Jyh-Horng Chou",21-34
@@ -12,9 +12,9 @@ Vol,No,Year,Article,Author,Pages
 1,1,,Modeling and Control of Twin Parallel-Axis Linear Servo Mechanisms for High-Speed Machine Tools,"Wu-Sung Yao, Fu-Yun Yang, Mi-Ching Tsai",77-85
 1,1,,Kinematic Analyses of a Parallel-type Independently Controllable Transmission,"Guan-Shyong Hwang, Der-Min Tsay, Wei-Hsiang Liao, Jao-Hwa Kuang, Tzuen-Lih Chern",87-92
 1,1,,Taiwan Perspective: Developing Smart Living Technology,"Chih-Kung Lee, Julie Lee, Po-Wen Lo, Hsiao-Lin Tang, Wen-Hsin Hsiao, Jui-Yao Liu, Ting-Li Lin",93-106
-1,2,,The Global Trend of Energy Saving and Carbon Reducing in Post-Kyoto Protocol Era,Chih-Lun Chen,1-3
-1,2,,An Anatomy of Automation Business Opportunity in China in Times of High Wages: Taiwanese Businessmen Invested in China as a Case,Ying-Mei Tai,5-10
-1,2,,When Civil Structures Bump into Automation Technologies: An interview with Dr. Kuo-Chun Chang,Chih-Ting Lin,11-15
+1,2,,The Global Trend of Energy Saving and Carbon Reducing in Post-Kyoto Protocol Era,Chih-Lun Chen,45660
+1,2,,An Anatomy of Automation Business Opportunity in China in Times of High Wages: Taiwanese Businessmen Invested in China as a Case,Ying-Mei Tai,45787
+1,2,,When Civil Structures Bump into Automation Technologies: An interview with Dr. Kuo-Chun Chang,Chih-Ting Lin,45976
 1,2,,Taiwan’s Fight with Nature Disasters: The Battle that Must Win,Kuang-Chong Wu,17
 1,2,,Multifunctional Inshore Survey Platform with Unmanned Surface Vehicles,"Wen-Rong Yang, Cing-Ying Chen, Chao-Min Hsu, Chiung-Jung Tseng, Wen-Chang Yang",19-25
 1,2,,Earthquake Early Warning Systems,Pei-Yang Lin,27-34
@@ -26,10 +26,10 @@ Vol,No,Year,Article,Author,Pages
 1,2,,A Planar Laser Diffraction Encoder in Littrow Configuration for 2D Nanometric Positioning,"Kuang-Chao Fan, Bor-Cheng Lee, Yi-Cheng Chung",93-99
 1,2,,A Feasibility Study on the Measurement of the PWS of Butterfly-Type Laser Module Packages Employing a Micro Polygon-Mirror and PSD,"Ying-Chien Tsai, Wei-Ran Lin, Guang-Miao Huang, YU-Da Liu, Wood-Hi Cheng",101-109
 1,2,,High Performance FOV Switching Mechanism Design for an Infrared Zoom Lens,"Chun-Ju Huang, Cheng-Shi Tsai, Bo-Ru Chen, Jia-Yush Yen, Jyh-Fa Lee, Liu-Hus Lin, Min-Shin Chen",111-119
-2,1,2012,SPECIAL ISSUE: Bio-Inspired Sensing and Actuation,Yao-Joe Joseph Yang,1-2
-2,1,,Strengths of Taiwan’s Medical Device Industry,Tsz-Yin Chang,3-6
-2,1,,Taiwan’s Path to Innovative R&D and Applications: “Technology-Driven” and “Location-Driven” Pilot Programs,"Pei-Chen Tsai, Shang-Hui Lin",7-10
-2,1,,Stair Climbing in a Quadruped Robot,"Shen-Chiang Chen, Chih-Chung Ko, Cheng-Hsin Li, Pei-Chun Lin",11-20
+2,1,2012,SPECIAL ISSUE: Bio-Inspired Sensing and Actuation,Yao-Joe Joseph Yang,45659
+2,1,,Strengths of Taiwan’s Medical Device Industry,Tsz-Yin Chang,45722
+2,1,,Taiwan’s Path to Innovative R&D and Applications: “Technology-Driven” and “Location-Driven” Pilot Programs,"Pei-Chen Tsai, Shang-Hui Lin",45848
+2,1,,Stair Climbing in a Quadruped Robot,"Shen-Chiang Chen, Chih-Chung Ko, Cheng-Hsin Li, Pei-Chun Lin",45981
 2,1,,An Integrated Microfluidic Chip for Rapid Methanol Detection,"Ting-Fu Hong, Wei-Jhong Ju, Chien-Hsiung Tsai, Yao-Nan Wang, Lung-Ming Fu",21-27
 2,1,,Development of Navigation Schemes for Grouped Mobile Robots Leading to Biomimetic Applications,"Ming-Hsin Chen, Yu-Te Fu, Kuang-Shun Ou, Kuo-Shen Chen",29-41
 2,1,,Microdroplet Protein Sensors on a Gold Surface with a Self-assembled Monolayer Treatment,"Tzu-Chun Liao, J. Andrew Yeh",43-48
@@ -68,10 +68,10 @@ Vol,No,Year,Article,Author,Pages
 2,4,,Real-Time Analysis of Beats in Music for Entertainment Robots,"Yue-Der Lin, Ting-Tsao Wu, Yu-Ren Chen, Yen-Ting Lin, Wen-Hsiu Chen, Shih-Fan Wang, Jinghom Chakhap",319-328
 2,4,,Advanced Driving Assistance Systems for an Electric Vehicle,"Pau Muñoz-Benavent, Leopoldo Armesto, Vicent Girbés, J. Ernesto Solanes, Juan F. Dols, Adolfo Muñoz, Josep Tornero",329-338
 2,4,,An Analytical Solution for a Redundant Manipulator with Seven Degrees of Freedom,"Takashi Nammoto, Kazuhiro Kosuge",339-346
-3,1,2013,SPECIAL ISSUE: Intelligent Robotics (2/2),Liu Yi-Hung,1-2
-3,1,,Automated Devices in Taiwan’s Telemedicine Industry,Li-Lun Yeh,3-5
-3,1,,“Big Data” Makes Smart Living Come True,Ya-ling Kao,6-7
-3,1,,Preliminary Development of an Automated Optical Inspection System for Quality Control of Circular Saw Inserts,"Wen-Tung Chang, Shui-Fa Chuang, Cheng-Yu Li, Fang-Jung Shiou, Geo-Ry Tang",9-17
+3,1,2013,SPECIAL ISSUE: Intelligent Robotics (2/2),Liu Yi-Hung,45659
+3,1,,Automated Devices in Taiwan’s Telemedicine Industry,Li-Lun Yeh,45721
+3,1,,“Big Data” Makes Smart Living Come True,Ya-ling Kao,45815
+3,1,,Preliminary Development of an Automated Optical Inspection System for Quality Control of Circular Saw Inserts,"Wen-Tung Chang, Shui-Fa Chuang, Cheng-Yu Li, Fang-Jung Shiou, Geo-Ry Tang",45917
 3,1,,Behavior-based Task Learning by Demonstration on Mobile Manipulation,"Shu Huang, Erwin Aertbeliën, Herman Bruyninckx, Hendrik Van Brussel",19-28
 3,1,,Portable 3D laser-camera calibration system with color fusion for SLAM,"Javier Navarrete, Diego Viejo, Miguel Cazorla",29-35
 3,1,,Sequential Quadratic Method for GPS NLOS Positioning in Urban Canyon Envi-ronments,"He-Sheng Wang, Chen-Ying Kao, Jing-Fen Chen",37-46
@@ -105,8 +105,8 @@ Vol,No,Year,Article,Author,Pages
 3,4,,Design of the Piezoelectric Actuator with Double Driving Tips,"Shyang-Jye Chang, Jing Chen",259-263
 3,4,,Precision Positioning with Shape-Memory-Alloy Actuators,"Kai-Hung Liang, Kuo-Han Kao, Szu-Chi Tien",265-271
 3,4,,Navigation Method for Autonomous Robots in a Dynamic Indoor Environment,"Stanislav Věchet, Kuo-Shen Chen, Jiří Krejsa",273-277
-4,1,2014,Trend Analysis for the Market and Application Development of 3D Printing,Chin-Ching Yeh,1-3
-4,1,,Real-time image acquisition and deblurring for underwater gravel extraction by smartphone,"Ming-Fu Chen, Yi-Chiun Kung, Shih-Jie Chou, Wei-Shen Lo, Chi-Kuei Wang",5-11
+4,1,2014,Trend Analysis for the Market and Application Development of 3D Printing,Chin-Ching Yeh,45660
+4,1,,Real-time image acquisition and deblurring for underwater gravel extraction by smartphone,"Ming-Fu Chen, Yi-Chiun Kung, Shih-Jie Chou, Wei-Shen Lo, Chi-Kuei Wang",45788
 4,1,,A Review of Ubiquitous Mobile Sensing Based on Smartphones,"Chih-Yen Chen, Yung-Hsiang Chen, Chun-Fu Lin, Chun-Jen Weng, Hung-Chun Chien",13-19
 4,1,,The improvement of Si0.5Ge0.5/Si interface quality by using low energy hydrogen plasma cleaning process and positron annihilation spectroscopy,"Cho-Fan Hsieh, Chen-Wei Chen, Chih-Hua Chen, Ming-Han Liao",21-26
 4,1,,Simultaneous Hand-Eye-Workspace and Camera Calibration using Laser Beam Projection,"Jwu-Sheng Hu, Yung-Jung Chang",27-42
@@ -140,8 +140,8 @@ Vol,No,Year,Article,Author,Pages
 4,4,,Mechatronic Systems in Digital Microfluidics,"Ping-Yi Hung, Hsin-Yi Lu, Shih-Kang Fan, Yen-Wen Lu",216-221
 4,4,,Reliability Study on Compact and Portable Chemiluminescence Detector,"Kai-Di Zhang, Xiang-Yu Zeng, Zhi Zeng, Guo-Wei Tao, Jia Zhou",222-227
 5,1,2015,Advanced Robotics and Control,Pei-Chun Lin,1
-5,1,,Continued Evolution of Automated Manufacturing – Cloud-Enabled Digital Manufacturing,Chung-Hung Huang,2-5
-5,1,,Hierarchical Coordination for Multi-Robot Systems with Region-Based Tracking Control,"Chao-Wei Lin, Luis A. Sanchez-Porras, Yen-Chen Liu",6-17
+5,1,,Continued Evolution of Automated Manufacturing – Cloud-Enabled Digital Manufacturing,Chung-Hung Huang,45693
+5,1,,Hierarchical Coordination for Multi-Robot Systems with Region-Based Tracking Control,"Chao-Wei Lin, Luis A. Sanchez-Porras, Yen-Chen Liu",45825
 5,1,,Position Control of a Serial Manipulator Using Fuzzy-PID Controllers,"Yong-Lin Kuo, Shih-Min Liu",18-26
 5,1,,Exposure-based Weighted Dynamic Histogram Equalization for Image Contrast Enhancement,"Yung-Yao Chen, Shin-Anne Chen",27-38
 5,1,,2D-Span Resampling of Bi-RRT in Dynamic Path Planning,"Hsien-I Lin, Cheng-Sun Yang",39-48
@@ -172,8 +172,8 @@ Vol,No,Year,Article,Author,Pages
 5,4,,Analysis of Personal Life Patterns Using Accelerometer-Based Wearable Devices,"Yeh-Liang Hsu, Yi-Fan Jiang, Ching-Hung Lin, Tsai-Ya Lai, Cheng-Li Chang",243-248
 5,4,,Design Considerations for Technology Interventions to Support Social and Physical Wellness for Older Adults with Disability,"Jenay M. Beer, Tracy L. Mitzner, Rachel E. Stuck, Wendy A. Rogers",249-264
 5,4,,Frequency Domain Effect of a Hysteresis Suppression System with Inverse Preisach Model Based Control,"Hsin-Fang Tsai, Jia-Yush Yen, Lien-Sheng Chen, Hung-Cheng Chang, Jack J.H. Chen, Fu-Chen Wang, Wen-Bin Wung",265-273
-6,1,2016,An Analysis of Intelligent Automation Demands in Taiwanese Firms,Ying-Mei Tai,1-3
-6,1,,Errors in Thermographic Camera Measurement Caused by Known Heat Sources and Depth Based Correction,"Mark Christian E. Manuel, Shu-Ping Lin, Wei-Hao Lu, Po Ting Lin",5-12
+6,1,2016,An Analysis of Intelligent Automation Demands in Taiwanese Firms,Ying-Mei Tai,45660
+6,1,,Errors in Thermographic Camera Measurement Caused by Known Heat Sources and Depth Based Correction,"Mark Christian E. Manuel, Shu-Ping Lin, Wei-Hao Lu, Po Ting Lin",45789
 6,1,,Adaptive Sliding Mode Control of a 6-DOF RLED Robot Manipulator with Uncertain Parameters and External Disturbances,"Isro Hutama, Chung-Hsien Kuo",13-24
 6,1,,Chatter Identification of Face Milling Operation via Time-Frequency and Fourier Analysis,"Ching-Chih Wei, Meng-Kun Liu, Guo-Hua Huang",25-36
 6,1,,An Intelligent Image Processing System for Real-Time Detection of Surface Flaws,"Yu-Cheng Chou, Wei-Chieh Liao, Ming Chang, Po Ting Lin",37-44
@@ -197,8 +197,8 @@ Vol,No,Year,Article,Author,Pages
 6,4,,Fall Detection FPGA-Based Systems: A Survey,"Sahar Abdelhedi, Riad Bourguiba, Jaouhar Mouine, Mouna Baklouti, Anis Youssef",191-202
 6,4,,Development of a Capillary Electrophoresis Chip with Integrated Electrochemical Sensors,"Ming-Yuan Lee, Ching-Chou Wu",203-210
 6,4,,Microfluidic Tumor-mimicking In Vitro Cell Culture Methods,"Hao-Chen Chang, Chia-Yu Tang, Hui-Ying Lin, Chia-Hsien Hsu",211-216
-7,1,2017,Disposable Wireless Immuno-Sensing Chips,"Takashiro Tsukamoto, Tomohiro Ishikawa, Shuji Tanaka",1-6
-7,1,,Novel Trench Isolation Technology for Suspended MEMS Structures,"Wen-Cheng Kuo, Chih-Ming Liu",7-14
+7,1,2017,Disposable Wireless Immuno-Sensing Chips,"Takashiro Tsukamoto, Tomohiro Ishikawa, Shuji Tanaka",45663
+7,1,,Novel Trench Isolation Technology for Suspended MEMS Structures,"Wen-Cheng Kuo, Chih-Ming Liu",45852
 7,1,,Switching Control in Hybrid Vehicle System Based Two Wheeler,"Arockia Vijay Joseph, Joselin Retna Kumar G",15-19
 7,1,,"Economic Design of Process Mean, Standard Deviation and Screening Limits Based on Burr Distribution",Chung-Ho Chen,21-26
 7,1,,Neural Network based Control Method Implemented on Ambidextrous Robot Hand,"Mashood Mukhtar, Emre Akyürek, Atiana Kalganova, Nicolas Lesne",27-32
@@ -221,8 +221,8 @@ Vol,No,Year,Article,Author,Pages
 7,4,,"New Design and Automation Concept of an Energy-Efficient, Tertiary Building for Mixed-Mode Ventilation System","Dan William C. Martinez, Alvin Y. Chua",163-178
 7,4,,Monotonic Switching Iterative Learning Control Method for a Class of Discrete Time Switched System,"H.E. Ouerfelli, S. Ben Attia, S. Salhi",179-186
 7,4,,"TiO2, SiO2, CaF2, and CaCO3: the Influence of Particles’ Concentration on Luminous Efficiency of the Conformal Geometry MCW-LEDs","Le Anh Vu, Hoang Quang Minh Tran, Tran Thanh Nam",187-191
-8,1,2018,Enhanced Roll Powder Sintering Additive Manufacturing Technology,Vyacheslav R. Shulunov,1-8
-8,1,,Implementation of Odometry with EKF in Hector SLAM Methods,"Ming-Yi Ju, Yu-Jen Chen, Wei-Cheng Jiang",9-18
+8,1,2018,Enhanced Roll Powder Sintering Additive Manufacturing Technology,Vyacheslav R. Shulunov,45665
+8,1,,Implementation of Odometry with EKF in Hector SLAM Methods,"Ming-Yi Ju, Yu-Jen Chen, Wei-Cheng Jiang",45918
 8,1,,Object Recognition and Cooperative Pick-and-Place of a Single Spherical Wheeled Mobile Robot with Dual Arms,"Jhen-Chi Tang, Ching-Chih Tsai, Feng-Chun Tai",19-27
 8,1,,Music Play Using a Vibraphone with a Humanoid Robot as Interaction Training for Autistic Children,"Ying Hua Peng, Ming Liang Wang, Norbert Michael Mayer, Yu-Fen Peng, Joanna Kossewska",29-34
 8,1,,Using Red-Emitting Ca2Si5N8Eu2+ Phosphor for Improving Color Uniformity and Color Quality Scale of the in-cup Packaging MCW-LEDs,"Tran Thanh Nam, Tran Hoang Quang Minh, Le Anh Vu",35-40
@@ -240,7 +240,7 @@ Vol,No,Year,Article,Author,Pages
 8,3,,Smart Meter Solution for Developing and Emerging Economies,"A. E. Ibhaze, M. U. Akpabio, A. A. A. Atayero",119-126
 8,3,,Robust Observer-based Control Design for Singular Systems with Delays in States,"Ahmed Ech-charqy, Mohamed Ouahi, El Houssaine Tissir",127-137
 8,3,,Latent Fingerprint Enhancement Based on Directional Total Variation Model with Lost Minutia Reconstruction,"Abdilahi Liban, Shadi M. S. Hilles",139-144
-9,1,2019,Concept Development and Design of Self-Transfer Devices for Wheelchair Users,"R. Hari Krishnan, S. Pugazhenthi",1-11
+9,1,2019,Concept Development and Design of Self-Transfer Devices for Wheelchair Users,"R. Hari Krishnan, S. Pugazhenthi",45668
 9,1,,Internet of Energy: A Design to Manage Energy Consumption for Off-Grid Building,Ahmed Jabbar Abid,13-22
 9,1,,A Novel Approach to Optimize Numerical Control Codes Using a Systematic Block Management Method,"Leapheng Uon, Calvin Alexander Yu Ng, Francis Gregory Lao Ng, Sharaful-Ilmi Abdulkadir Paduman, Alvin Chua",23-32
 9,1,,Smart Irrigation System Using Wireless Sensor Network with Cooja and Contiki,"Asir Antony Gnana Singh, Jebamalar Leavline, M. Sushmitha, E. Manjula",33-39

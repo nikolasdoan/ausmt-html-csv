@@ -13,6 +13,9 @@ import pandas as pd
 # Configuration: Set the folder containing HTML files
 HTML_FOLDER = "html_files"  # Change this to your folder name
 
+# Configuration: Output directory
+OUTPUT_DIR = "output-files"
+
 
 def clean_text(text):
     """Clean and normalize text content."""
@@ -278,14 +281,18 @@ def main():
     # Apply year grouping
     df_grouped = apply_year_grouping(df)
     
+    # Create output directory
+    output_dir = Path(OUTPUT_DIR)
+    output_dir.mkdir(exist_ok=True)
+    
     # Save to CSV
-    csv_filename = 'journal_articles_summary.csv'
+    csv_filename = output_dir / 'journal_articles_summary.csv'
     df_grouped.to_csv(csv_filename, index=False, encoding='utf-8')
     print(f"CSV file created: {csv_filename}")
     
     # Save to Excel (optional)
     try:
-        excel_filename = 'journal_articles_summary.xlsx'
+        excel_filename = output_dir / 'journal_articles_summary.xlsx'
         df_grouped.to_excel(excel_filename, index=False, engine='openpyxl')
         print(f"Excel file created: {excel_filename}")
     except ImportError:

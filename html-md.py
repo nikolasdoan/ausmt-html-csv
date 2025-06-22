@@ -10,6 +10,9 @@ from pathlib import Path
 from bs4 import BeautifulSoup, Comment
 import html2text
 
+# Configuration: Output directory
+OUTPUT_DIR = "output-files"
+
 
 def setup_html2text_converter():
     """Configure the html2text converter with appropriate settings."""
@@ -137,8 +140,8 @@ def main():
     current_dir = Path('.')
     
     # Create output directory
-    output_dir = current_dir / 'markdown_files'
-    output_dir.mkdir(exist_ok=True)
+    output_dir = current_dir / OUTPUT_DIR / 'markdown_files'
+    output_dir.mkdir(parents=True, exist_ok=True)
     
     # Find all HTML files
     html_files = list(current_dir.glob('*.htm')) + list(current_dir.glob('*.html'))
